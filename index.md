@@ -12,9 +12,9 @@ Compositions can have parts (e.g Sthyai, Antara and multiple Taans) as well as t
 
 For more info, head over to the Sargam-spec [readme](https://github.com/Studio-kalavati/sargam-spec).
 
-### Bhatkhande notation viewer
+### Bhatkhande notation 
 
-This project is a re-frame project that can reads a composition stored in a the app-db and displays the composition in an HTML5 canvas. It contains utility methods to 
+This project is a re-frame utility that reads a composition stored in a the app-db and displays the composition in an HTML5 canvas. It contains utility methods to 
 
 * setup an HTML canvas
 * display separate parts of the composition
@@ -23,5 +23,8 @@ This project is a re-frame project that can reads a composition stored in a the 
 More info in the [project page](https://github.com/Studio-kalavati/bhatkhande-notation)
 
 
+### Chaturpandit
 
+This is a re-frame project that displays a form to validate sargam-spec-compliant inputs and then display them in a Bhatkhande notation canvas.
 
+More info in the [project page](https://github.com/Studio-kalavati/chaturpandit)
